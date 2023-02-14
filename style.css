@@ -1,0 +1,18 @@
+.size{
+    min-width: 338px;
+    max-width: 338px;
+    max-height:486px;
+    min-height: 486px;
+}
+.size-img{
+    min-width: 336px;
+    max-width: 336px;
+    max-height:336px;
+    min-height: 336px;
+}
+.size-title{
+    min-width: 296px;
+    max-width: 296px;
+    max-height:48px;
+    min-height: 48px;
+}
