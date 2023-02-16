@@ -1,2 +1,2 @@
-# bootstarp-odev-1
+# bootstrap-odev-1
 ## müzik dükkanı sitesi
